@@ -3,7 +3,7 @@ Hi :sweat_smile: my name is Leis Aleksei. I'm from Russian
 Technologies which I use:
 C# (ASP.NET Web API) 
 HTML, CSS
-Puthon
+Python
 Git
 
  How to reach me
