@@ -8,10 +8,10 @@ Puthon
 Git,
 I'm leading my personal blog and Telegram Channel, so you are welcome and feel free to leave a comment there or give me some feedback.
 
-📫 How to reach me
+ How to reach me
 Gmail Badge Telegram Badge Github Badge Vk Badge
 
-🤔 I’m looking for help
+I’m looking for help
 I'm developing couple Visual Studio Code extensions:
 
 yandex-music-extension
