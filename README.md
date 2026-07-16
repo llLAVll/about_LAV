@@ -1,5 +1,5 @@
-Hi 
-name is Leis Aleksei. I'm from Russian
+Hi :sweat_smile:
+name is Leis Aleksei. I'm from Russian 
 
 Technologies which I use:
 C# (ASP.NET Web API)
